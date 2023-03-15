@@ -117,7 +117,7 @@ $SourceWay = '';
         <!-- Header part end-->
         <h1>Hello World!</h1>
         <!-- Верхний баннер с кнопкой "в товары"-->
-        <!--
+        
         <section class="banner_part">
             <div class="container">
                 <div class="row align-items-center">
@@ -139,11 +139,11 @@ $SourceWay = '';
                 <img src="public/resources/img/banner_pattern.png " alt="#" class="pattern_img img-fluid">
             </div>
         </section>
-        -->
+        
         <!-- banner part start-->
 
         <!-- Раздельные продукты с кнопкой подробнее-->
-        <!--
+        
         <section class="single_product_list">
             <div class="container">
                 <div class="row">
@@ -209,12 +209,12 @@ $SourceWay = '';
                 </div>
             </div>
         </section>
-        -->
+        
         <!-- product list end-->
 
 
         <!-- Трендовые вещи -->
-        <!--
+        
         <section class="trending_items">
             <div class="container">
                 <div class="row">
@@ -274,7 +274,7 @@ $SourceWay = '';
                 </div>
             </div>
         </section>
-        -->
+        
         <!-- trending item end-->
 
         <!-- Отзывы покупателей -->
